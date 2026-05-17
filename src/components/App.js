@@ -1,5 +1,5 @@
 import React from "react";
-import SumCalculator from "./SumCalculator.jsx";
+import SumCalculator from "./SumCalculator.js";
 import "./../styles/App.css";
 
 const App = () => {
